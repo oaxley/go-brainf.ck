@@ -2,7 +2,12 @@
 
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## Work in Progress
+## Purpose
+
+The first purpose is to have a Brainf.ck interpreter in Go, just for fun.
+The second one, is to create a compressor/decompressor for the language and see where it leads.
+
+This is still a **WORK IN PROGRESS**
 
 
 
